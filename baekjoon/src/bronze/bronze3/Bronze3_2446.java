@@ -1,4 +1,4 @@
-package bronze;
+package bronze.bronze3;
 
 import java.util.Scanner;
 

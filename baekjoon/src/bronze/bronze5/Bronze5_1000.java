@@ -1,8 +1,8 @@
-package bronze;
+package bronze.bronze5;
 
 import java.util.Scanner;
 
-public class Bronze5_1001 {
+public class Bronze5_1000 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -11,6 +11,6 @@ public class Bronze5_1001 {
         sc.nextLine();
         sc.close();
 
-        System.out.println(num1 - num2);
+        System.out.println(num1 + num2);
     }
 }
